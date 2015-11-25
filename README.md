@@ -1,10 +1,14 @@
 tstat-logger, an update to Scott Nottingham's python-honeywell-thermostat
 ===========================
-Goals:
+-**Goals**:
 update to Python 3
+
 go to optional file based database instead of MySQL
+
 log additional items in JSON api (heat ON?)
+
 global configuration file
+
 
 Data collector for internet connected Honeywell Thermostats
 
